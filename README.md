@@ -27,7 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snat7&show_icons=true&locale=en" alt="snat7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snat7&" alt="snat7" /></p>
----
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 
