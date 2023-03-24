@@ -27,10 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snat7&show_icons=true&locale=en" alt="snat7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snat7&" alt="snat7" /></p>
-#### ✍️ Random Dev Quote
+---
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://visitcount.itsvg.in/api?id=snat7&icon=5&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
