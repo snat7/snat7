@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/snathaxor" target="blank"><img src="https://img.shields.io/twitter/follow/snathaxor?logo=twitter&style=for-the-badge" alt="snathaxor" /></a> </p>
 
-### Blogs posts
+ Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
