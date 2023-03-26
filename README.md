@@ -3,7 +3,7 @@
 
 <body>
 <h1 align="center">Hi 👋, I'm SYED NASEEB ALI</h1>
-<h3 align="center">A passionate  full MERN STACK Developer from Pakistan</h3>
+<h3 align="center">A passionate MERN STACK Developer from Pakistan</h3>
 <img align="right" alt="coding" width="420" src="https://github.com/snat7/snat7/blob/63f8d332f533cdae97f33bf17ce97466ab260a27/banner.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snat7&label=Profile%20views&color=0e75b6&style=flat" alt="snat7" /> </p>
